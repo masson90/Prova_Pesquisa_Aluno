@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30002.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prova_Pesquisa_Aluno", "Prova_Pesquisa_Aluno\Prova_Pesquisa_Aluno.csproj", "{024D1A1C-1653-45A2-B6E9-11F4167D2469}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{024D1A1C-1653-45A2-B6E9-11F4167D2469}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{024D1A1C-1653-45A2-B6E9-11F4167D2469}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{024D1A1C-1653-45A2-B6E9-11F4167D2469}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{024D1A1C-1653-45A2-B6E9-11F4167D2469}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {10AC1D90-772F-45F0-AC76-4D3D9DAFA8CD}
+	EndGlobalSection
+EndGlobal
